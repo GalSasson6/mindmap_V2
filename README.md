@@ -2,6 +2,8 @@
 
 A study mind-map app built with Next.js. Organize each course as an interactive map of nodes with Markdown and math notes, handwriting-style fonts, a drawing pad, and AI help from Google Gemini.
 
+![Mind Map screenshot](docs/screenshot.png)
+
 ## Features
 
 - **Courses** — each course is its own mind map, saved as JSON in `data/`
